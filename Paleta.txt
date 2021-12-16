@@ -1,0 +1,11 @@
+
+
+Marrom: #853B0C
+
+Preto: #000000
+
+Bege: #F7E7CE
+
+Prata: #C0C0C0
+
+Branco: #FFFFFF
